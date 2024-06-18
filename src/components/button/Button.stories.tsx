@@ -22,6 +22,7 @@ export const ButtonStory: Story = {
 					title='Применить'
 					type='submit'
 					onClick={() => alert('клик на кнопку применить')}
+					ddd
 				/>
 			</>
 		);
